@@ -1,4 +1,5 @@
 
+/*
 terraform {
   backend "remote" {
     
@@ -9,9 +10,9 @@ terraform {
     }
     
   }
- // region  = "us-east-1"
+ 
 }
-
+*/
 
 
 
